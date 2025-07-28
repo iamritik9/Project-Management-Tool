@@ -1,6 +1,6 @@
 # Project Management Tool
 
-![Project Management Tool Homepage](https://i.ibb.co/wpKt0vZ/PPMT.png)
+![Project Management Tool Homepage](<img width="2155" height="1116" alt="Image" src="https://github.com/user-attachments/assets/aa56ae7e-9409-47bb-a04c-4f13c2df5040" />
 
 A full-stack web application for managing personal or team-based projects. Built using ReactJS and Spring Boot, this tool supports user authentication, project tracking, task management, and a project backlog system.
 
